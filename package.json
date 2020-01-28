@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-action-test",
+  "version": "1.0.0",
+  "description": "test project for github action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulvramesh/expressjs-action-test.git"
+  },
+  "author": "rahulvramesh@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulvramesh/expressjs-action-test/issues"
+  },
+  "homepage": "https://github.com/rahulvramesh/expressjs-action-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
